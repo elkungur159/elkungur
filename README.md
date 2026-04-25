@@ -5,4 +5,4 @@ Stupeni
 my_app.py      | Главный файл
 instr.py       |Файл с текстовыми инструкциями
 second_win.py  |HGJGH
-final_win.py   |Итоги тестирования
+final_win.py   |DGDFG
