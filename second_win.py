@@ -5,6 +5,7 @@ from PyQt5.QtWidgets import (
         QHBoxLayout, QVBoxLayout, QGridLayout, 
         QGroupBox, QRadioButton,
         QPushButton, QLabel, QListWidget, QLineEdit)
+
 from instr import *
 from final_win import *
 
@@ -49,7 +50,6 @@ class TestWin(QWidget):
         self.setWindowTitle(txt_title)
         self.resize(win_width, win_height)
         self.move(win_x, win_y)
-           
     def initUI(self):
         ''' создает графические элементы '''
         #self.questionnary = AllQuestions()
